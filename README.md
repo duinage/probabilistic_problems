@@ -8,3 +8,6 @@ some interesting problems in probability theory and statistics:
 5. afv_tanks_losses.ipynb - testing the hypothesis using Welch's t-test that the average losses per day of AFVs coincide with the losses of Tanks (multiplied by 2);
 6. estimates_of_uniform_distribution.ipynb - Comparison of MME, MLE, combined estimates for uniform distribution theoretically and by simulation. Applying the best estimate to a specific example;
 7. online_store_analytics.ipynb - analytics and an approximate estimate of the amount of losses due to the dishonest actions of some customers of the online store;
+
+fsdfsdhjkfhsd
+sdfhjksdjfgsd
